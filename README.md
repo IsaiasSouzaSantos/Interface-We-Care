@@ -1,34 +1,12 @@
-# <div id="title"> Iterface We Care </div>
- <style>
-     img{
-         box-shadow:2px 2px 10px #000000;
-         width:500px;
-         display:block;
-         margin:auto;
-     }
+# Iterface We Care 
 
-     #title{
-         text-transform:Uppercase;
-         text-align:center;
-         color:	#808080;
-     }
-
-     .text{
-         text-align:center;
-         padding:20px;
-     }
-
-     p{
-         color:	#808080;
-     }
- </style>
 
 
 <img src="./img/We-Care.jpg" alt="site we-care" title="image do site">
 
-###### <div class="text"> Esté projeto foi desenvolvido do curso DevClub Full Stack </div>
+###### Esté projeto foi desenvolvido do curso DevClub Full Stack 
 
-#### <p> Esté Projeto foi utilizado as tecnologias de marcação de texto e folha de estilo em cascata </p>
+#### Esté Projeto foi utilizado as tecnologias de marcação de texto e folha de estilo em cascata 
 
 - [x] HTML5 
 - [x] CSS3
